@@ -22,7 +22,6 @@
 编辑
 ├── client                 // 前端代码（Vue 3）
 │   ├── src
-│   │   ├── components    // 组件目录
 │   │   ├── utils         // 工具函数（如分片、常量定义等）
 │   │   └── App.vue       // 入口组件，包含上传逻辑
 │   └── package.json      // 前端依赖及启动配置
